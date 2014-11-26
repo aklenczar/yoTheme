@@ -1,0 +1,14 @@
+{
+    "name": "aklenczar.yo-theme",
+    "title": "Yo Theme",
+    "description": "This theme is so shiny that you'll need to wear shades!",
+    "homepage": "https://github.com/aklenczar/yotheme",
+    "version": "1.0.0",
+    "author": "Arkadiusz Klenczar <a.klenczar@gmail.com> (http://informatyk.tychy.pl)",
+    "license": "MIT",
+    "theme": {
+        "file": "main.less",
+        "dark": true
+    },
+    "keywords": ["theme"]
+}
